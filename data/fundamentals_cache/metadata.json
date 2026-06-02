@@ -8812,7 +8812,7 @@
     "in_earnings_season": true
   },
   "SSTI": {
-    "last_updated": "2026-03-03T14:09:15.657909",
+    "last_updated": "2026-06-02T16:42:36.169741",
     "in_earnings_season": false
   },
   "WRLD": {
@@ -9501,6 +9501,10 @@
   },
   "NL": {
     "last_updated": "2026-06-01T17:47:00.647767",
+    "in_earnings_season": false
+  },
+  "FGMC": {
+    "last_updated": "2026-06-02T16:10:41.841110",
     "in_earnings_season": false
   }
 }
