@@ -9546,5 +9546,13 @@
   "RBB": {
     "last_updated": "2026-06-10T15:30:30.798891",
     "in_earnings_season": false
+  },
+  "PUSA": {
+    "last_updated": "2026-06-11T16:11:02.242179",
+    "in_earnings_season": false
+  },
+  "SI": {
+    "last_updated": "2026-06-11T16:15:56.345682",
+    "in_earnings_season": false
   }
 }
