@@ -4708,8 +4708,8 @@
     "in_earnings_season": true
   },
   "OLLI": {
-    "last_updated": "2026-02-12T14:08:21.083516",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T15:07:56.977707",
+    "in_earnings_season": false
   },
   "OLMA": {
     "last_updated": "2025-12-04T14:04:36.210234",
@@ -5852,7 +5852,7 @@
     "in_earnings_season": false
   },
   "SPAI": {
-    "last_updated": "2026-03-13T14:10:03.918631",
+    "last_updated": "2026-06-12T15:19:07.711841",
     "in_earnings_season": false
   },
   "SPB": {
@@ -6836,8 +6836,8 @@
     "in_earnings_season": true
   },
   "WING": {
-    "last_updated": "2026-02-09T14:28:22.962791",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T15:27:32.941168",
+    "in_earnings_season": false
   },
   "WK": {
     "last_updated": "2026-02-09T14:28:24.943812",
@@ -7000,8 +7000,8 @@
     "in_earnings_season": true
   },
   "ZBIO": {
-    "last_updated": "2026-02-09T14:30:02.922185",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T15:29:13.887042",
+    "in_earnings_season": false
   },
   "ZD": {
     "last_updated": "2026-05-11T16:32:37.499160",
@@ -7228,8 +7228,8 @@
     "in_earnings_season": true
   },
   "HNI": {
-    "last_updated": "2026-02-13T13:45:56.477010",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T14:53:25.710926",
+    "in_earnings_season": false
   },
   "ICFI": {
     "last_updated": "2026-05-01T14:13:06.057954",
@@ -7360,8 +7360,8 @@
     "in_earnings_season": true
   },
   "EPAC": {
-    "last_updated": "2026-02-13T13:38:31.662613",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T14:45:59.607617",
+    "in_earnings_season": false
   },
   "ESAB": {
     "last_updated": "2026-05-07T14:56:43.753056",
@@ -9553,6 +9553,22 @@
   },
   "SI": {
     "last_updated": "2026-06-11T16:15:56.345682",
+    "in_earnings_season": false
+  },
+  "AMPG": {
+    "last_updated": "2026-06-12T14:29:40.605456",
+    "in_earnings_season": false
+  },
+  "FAC": {
+    "last_updated": "2026-06-12T14:47:06.452719",
+    "in_earnings_season": false
+  },
+  "HBT": {
+    "last_updated": "2026-06-12T14:52:34.000411",
+    "in_earnings_season": false
+  },
+  "SPKL": {
+    "last_updated": "2026-06-12T15:19:15.847324",
     "in_earnings_season": false
   }
 }
