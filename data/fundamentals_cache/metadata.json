@@ -964,8 +964,8 @@
     "in_earnings_season": true
   },
   "BL": {
-    "last_updated": "2026-02-09T13:35:00.398849",
-    "in_earnings_season": true
+    "last_updated": "2026-07-01T14:06:39.782295",
+    "in_earnings_season": false
   },
   "BLBD": {
     "last_updated": "2026-05-11T15:37:57.572353",
@@ -1288,8 +1288,8 @@
     "in_earnings_season": true
   },
   "CELH": {
-    "last_updated": "2026-02-09T13:38:21.393450",
-    "in_earnings_season": true
+    "last_updated": "2026-07-01T14:10:02.865412",
+    "in_earnings_season": false
   },
   "CENTA": {
     "last_updated": "2026-05-11T15:41:23.698742",
@@ -1616,8 +1616,8 @@
     "in_earnings_season": true
   },
   "CRK": {
-    "last_updated": "2026-02-09T13:41:12.566420",
-    "in_earnings_season": true
+    "last_updated": "2026-07-01T14:12:55.900601",
+    "in_earnings_season": false
   },
   "CRNC": {
     "last_updated": "2025-12-04T13:44:20.621729",
@@ -3536,8 +3536,8 @@
     "in_earnings_season": true
   },
   "JKHY": {
-    "last_updated": "2026-02-13T13:49:39.676508",
-    "in_earnings_season": true
+    "last_updated": "2026-07-01T14:29:14.098318",
+    "in_earnings_season": false
   },
   "JLL": {
     "last_updated": "2026-05-11T16:00:25.623444",
@@ -5088,7 +5088,7 @@
     "in_earnings_season": true
   },
   "PODD": {
-    "last_updated": "2025-12-04T14:07:09.872209",
+    "last_updated": "2026-07-01T14:43:37.110717",
     "in_earnings_season": false
   },
   "POWL": {
@@ -5444,8 +5444,8 @@
     "in_earnings_season": true
   },
   "RMD": {
-    "last_updated": "2026-02-06T14:05:48.068495",
-    "in_earnings_season": true
+    "last_updated": "2026-07-01T14:47:01.176197",
+    "in_earnings_season": false
   },
   "RNA": {
     "last_updated": "2026-02-09T14:15:20.704281",
@@ -6372,8 +6372,8 @@
     "in_earnings_season": true
   },
   "TSCO": {
-    "last_updated": "2026-02-10T14:39:37.955510",
-    "in_earnings_season": true
+    "last_updated": "2026-07-01T14:55:17.265034",
+    "in_earnings_season": false
   },
   "TSLX": {
     "last_updated": "2026-05-04T15:18:23.169203",
@@ -6840,8 +6840,8 @@
     "in_earnings_season": false
   },
   "WK": {
-    "last_updated": "2026-02-09T14:28:24.943812",
-    "in_earnings_season": true
+    "last_updated": "2026-07-01T14:59:38.260745",
+    "in_earnings_season": false
   },
   "WLDN": {
     "last_updated": "2026-05-15T15:26:52.248558",
@@ -9701,6 +9701,10 @@
   },
   "VIA": {
     "last_updated": "2026-06-30T14:30:58.048994",
+    "in_earnings_season": false
+  },
+  "MQ": {
+    "last_updated": "2026-07-01T14:35:40.962683",
     "in_earnings_season": false
   }
 }
