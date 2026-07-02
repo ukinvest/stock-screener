@@ -4916,7 +4916,7 @@
     "in_earnings_season": true
   },
   "PCT": {
-    "last_updated": "2025-12-04T14:06:01.322605",
+    "last_updated": "2026-07-02T14:06:22.933755",
     "in_earnings_season": false
   },
   "PCVX": {
@@ -6564,8 +6564,8 @@
     "in_earnings_season": true
   },
   "UPWK": {
-    "last_updated": "2026-02-09T14:25:40.812213",
-    "in_earnings_season": true
+    "last_updated": "2026-07-02T14:21:08.989888",
+    "in_earnings_season": false
   },
   "URBN": {
     "last_updated": "2026-05-11T16:28:13.103224",
@@ -9705,6 +9705,18 @@
   },
   "MQ": {
     "last_updated": "2026-07-01T14:35:40.962683",
+    "in_earnings_season": false
+  },
+  "ALIT": {
+    "last_updated": "2026-07-02T13:25:25.459207",
+    "in_earnings_season": false
+  },
+  "LFMD": {
+    "last_updated": "2026-07-02T13:55:51.933545",
+    "in_earnings_season": false
+  },
+  "OBT": {
+    "last_updated": "2026-07-02T14:03:54.040487",
     "in_earnings_season": false
   }
 }
