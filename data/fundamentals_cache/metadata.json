@@ -4252,7 +4252,7 @@
     "in_earnings_season": true
   },
   "MPAA": {
-    "last_updated": "2026-04-08T14:28:35.949378",
+    "last_updated": "2026-07-09T14:56:53.489908",
     "in_earnings_season": false
   },
   "MPC": {
@@ -9749,6 +9749,10 @@
   },
   "TGLS": {
     "last_updated": "2026-07-08T14:14:45.500587",
+    "in_earnings_season": false
+  },
+  "STUB": {
+    "last_updated": "2026-07-09T15:13:45.613716",
     "in_earnings_season": false
   }
 }
