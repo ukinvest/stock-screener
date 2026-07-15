@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BWXT",
-    "fetch_date": "2026-05-11T15:39:42.589467",
+    "fetch_date": "2026-07-15T13:10:46.222975",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 682258000.0,
       "2025-06-30 00:00:00": 764039000.0,
@@ -24,7 +24,6 @@
     "margin_change": 1.8,
     "operating_margin": 9.91,
     "quarterly_inventory": {
-      "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 49648000.0,
       "2025-06-30 00:00:00": 51560000.0,
@@ -36,5 +35,5 @@
     "inventory_to_sales_ratio": 0.053,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-11T15:39:42.590928"
+  "fetched_at": "2026-07-15T13:10:46.224488"
 }
