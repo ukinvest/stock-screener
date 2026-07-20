@@ -2090,5 +2090,33 @@
   "VICI": {
     "last_updated": "2026-07-17T13:53:09.452127",
     "in_earnings_season": true
+  },
+  "ARLO": {
+    "last_updated": "2026-07-20T13:36:01.842021",
+    "in_earnings_season": true
+  },
+  "BBNX": {
+    "last_updated": "2026-07-20T13:38:06.763687",
+    "in_earnings_season": true
+  },
+  "NP": {
+    "last_updated": "2026-07-20T14:11:02.205796",
+    "in_earnings_season": true
+  },
+  "QLYS": {
+    "last_updated": "2026-07-20T14:17:50.404543",
+    "in_earnings_season": true
+  },
+  "RGNX": {
+    "last_updated": "2026-07-20T14:19:11.212345",
+    "in_earnings_season": true
+  },
+  "TECH": {
+    "last_updated": "2026-07-20T14:26:16.364003",
+    "in_earnings_season": true
+  },
+  "YEXT": {
+    "last_updated": "2026-07-20T14:33:50.317693",
+    "in_earnings_season": true
   }
 }
