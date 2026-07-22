@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AGX",
-    "fetch_date": "2026-07-15T13:02:27.225065",
+    "fetch_date": "2026-07-22T13:15:12.342057",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 193660000.0,
       "2025-07-31 00:00:00": 237743000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.042,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:02:27.226608"
+  "fetched_at": "2026-07-22T13:15:12.343443"
 }

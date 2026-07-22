@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GLP",
-    "fetch_date": "2026-07-15T13:25:50.498251",
+    "fetch_date": "2026-07-22T13:51:34.436617",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 4592197000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.138,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:25:50.500139"
+  "fetched_at": "2026-07-22T13:51:34.437938"
 }

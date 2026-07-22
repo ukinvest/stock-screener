@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "OPLN",
-    "fetch_date": "2026-07-15T13:47:53.469183",
+    "fetch_date": "2026-07-22T14:17:49.620821",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 460100000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 13.98,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:47:53.470329"
+  "fetched_at": "2026-07-22T14:17:49.621858"
 }

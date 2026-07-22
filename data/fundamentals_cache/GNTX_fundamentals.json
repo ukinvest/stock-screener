@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GNTX",
-    "fetch_date": "2026-07-15T13:26:09.768287",
+    "fetch_date": "2026-07-22T13:51:53.780015",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 576773090.0,
       "2025-06-30 00:00:00": 657858210.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.775,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:26:09.769773"
+  "fetched_at": "2026-07-22T13:51:53.781509"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HLX",
-    "fetch_date": "2026-07-15T13:28:24.092598",
+    "fetch_date": "2026-07-22T13:55:27.835755",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 278064000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -4.62,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:28:24.093779"
+  "fetched_at": "2026-07-22T13:55:27.837096"
 }

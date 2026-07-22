@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ARE",
-    "fetch_date": "2026-07-15T13:05:16.684245",
+    "fetch_date": "2026-07-22T13:20:30.775952",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 743175000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 13.59,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:05:16.685442"
+  "fetched_at": "2026-07-22T13:20:30.777002"
 }

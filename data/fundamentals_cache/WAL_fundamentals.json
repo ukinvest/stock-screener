@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WAL",
-    "fetch_date": "2026-07-15T14:08:50.999877",
+    "fetch_date": "2026-07-22T14:40:39.197489",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 761600000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": -7.821229050279337,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:08:51.000652"
+  "fetched_at": "2026-07-22T14:40:39.198095"
 }

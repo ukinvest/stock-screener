@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EFSC",
-    "fetch_date": "2026-07-15T13:19:47.644309",
+    "fetch_date": "2026-07-22T13:43:10.630543",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 137375000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": -0.7633587786259549,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:19:47.644974"
+  "fetched_at": "2026-07-22T13:43:10.631165"
 }

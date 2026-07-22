@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "JKHY",
-    "fetch_date": "2026-07-15T13:33:54.690324",
+    "fetch_date": "2026-07-22T14:01:08.436680",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 585087000.0,
       "2025-06-30 00:00:00": 615372000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 24.37,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:33:54.691747"
+  "fetched_at": "2026-07-22T14:01:08.437587"
 }

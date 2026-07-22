@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "OPY",
-    "fetch_date": "2026-07-15T13:47:59.715875",
+    "fetch_date": "2026-07-22T14:17:54.788061",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 367825000.0,
       "2025-06-30 00:00:00": 373178000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 22.56,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:47:59.717042"
+  "fetched_at": "2026-07-22T14:17:54.789425"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "STRF",
-    "fetch_date": "2026-07-15T14:00:46.591188",
+    "fetch_date": "2026-07-22T14:32:14.056296",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 111066000.0,
@@ -17,5 +17,5 @@
     "operating_margin": -12.02,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:00:46.592199"
+  "fetched_at": "2026-07-22T14:32:14.057249"
 }

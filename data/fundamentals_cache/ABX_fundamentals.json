@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ABX",
-    "fetch_date": "2026-07-15T13:01:05.705579",
+    "fetch_date": "2026-07-22T13:13:20.699925",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 44139346.0,
@@ -27,5 +27,5 @@
     "operating_margin": 30.86,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:01:05.706786"
+  "fetched_at": "2026-07-22T13:13:20.700883"
 }
