@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SAIA",
-    "fetch_date": "2026-07-15T13:55:56.140218",
+    "fetch_date": "2026-07-23T14:05:03.180716",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 787575000.0,
       "2025-06-30 00:00:00": 817115000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 8.29,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:55:56.141381"
+  "fetched_at": "2026-07-23T14:05:03.181868"
 }

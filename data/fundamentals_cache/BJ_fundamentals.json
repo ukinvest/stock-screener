@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BJ",
-    "fetch_date": "2026-07-16T13:16:29.534821",
+    "fetch_date": "2026-07-23T13:23:34.902040",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": NaN,
       "2025-04-30 00:00:00": 5153483000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.295,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-16T13:16:29.536357"
+  "fetched_at": "2026-07-23T13:23:34.903556"
 }

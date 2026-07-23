@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HURN",
-    "fetch_date": "2026-07-15T13:29:27.312982",
+    "fetch_date": "2026-07-23T13:43:28.208256",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 404141000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 8.24,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:29:27.314177"
+  "fetched_at": "2026-07-23T13:43:28.209443"
 }
