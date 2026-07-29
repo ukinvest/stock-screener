@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BZH",
-    "fetch_date": "2026-07-22T13:28:53.560758",
+    "fetch_date": "2026-07-29T13:38:44.396301",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 565339000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 5.497,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T13:28:53.561970"
+  "fetched_at": "2026-07-29T13:38:44.398049"
 }

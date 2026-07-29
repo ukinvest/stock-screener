@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BMRC",
-    "fetch_date": "2026-07-22T13:25:06.682211",
+    "fetch_date": "2026-07-29T13:37:05.250105",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 26888000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 76.66666666666669,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T13:25:06.682809"
+  "fetched_at": "2026-07-29T13:37:05.250782"
 }

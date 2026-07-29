@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BSM",
-    "fetch_date": "2026-07-22T13:27:46.862572",
+    "fetch_date": "2026-07-29T13:38:03.286600",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 115253000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 65.52,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T13:27:46.863499"
+  "fetched_at": "2026-07-29T13:38:03.287927"
 }
