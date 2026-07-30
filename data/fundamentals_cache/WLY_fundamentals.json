@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WLY",
-    "fetch_date": "2026-07-22T14:41:52.655601",
+    "fetch_date": "2026-07-30T14:19:49.558960",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.043,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:41:52.657013"
+  "fetched_at": "2026-07-30T14:19:49.560505"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TWFG",
-    "fetch_date": "2026-07-22T14:36:29.929078",
+    "fetch_date": "2026-07-30T14:15:49.146021",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 51796000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 14.8,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:36:29.930003"
+  "fetched_at": "2026-07-30T14:15:49.147221"
 }

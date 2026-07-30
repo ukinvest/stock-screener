@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "OPFI",
-    "fetch_date": "2026-07-22T14:17:45.937586",
+    "fetch_date": "2026-07-30T14:00:40.194819",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 140268000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 65.8,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:17:45.938567"
+  "fetched_at": "2026-07-30T14:00:40.195974"
 }

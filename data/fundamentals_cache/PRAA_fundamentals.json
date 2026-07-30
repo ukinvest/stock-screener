@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PRAA",
-    "fetch_date": "2026-07-22T14:21:40.955321",
+    "fetch_date": "2026-07-30T14:03:51.327830",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 272043000.0,
       "2025-06-30 00:00:00": 290734000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 22.73,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:21:40.956248"
+  "fetched_at": "2026-07-30T14:03:51.328989"
 }

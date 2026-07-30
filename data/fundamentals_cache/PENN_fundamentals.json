@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PENN",
-    "fetch_date": "2026-07-22T14:19:52.453835",
+    "fetch_date": "2026-07-30T14:02:26.184539",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1672500000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 5.46,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:19:52.454764"
+  "fetched_at": "2026-07-30T14:02:26.185785"
 }
