@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LEGH",
-    "fetch_date": "2026-07-15T13:36:58.478377",
+    "fetch_date": "2026-07-31T13:54:28.583805",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 35670000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.466,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:36:58.479876"
+  "fetched_at": "2026-07-31T13:54:28.585650"
 }
