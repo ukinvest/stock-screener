@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TBCH",
-    "fetch_date": "2026-07-22T14:33:07.505342",
+    "fetch_date": "2026-08-04T14:23:30.483475",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 63901000.0,
       "2025-06-30 00:00:00": 56777000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 1.525,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:33:07.506656"
+  "fetched_at": "2026-08-04T14:23:30.485270"
 }
