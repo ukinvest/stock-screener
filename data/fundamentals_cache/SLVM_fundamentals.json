@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SLVM",
-    "fetch_date": "2026-07-28T14:14:18.044579",
+    "fetch_date": "2026-08-05T14:19:03.960236",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 821000000.0,
       "2025-06-30 00:00:00": 794000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.64,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-28T14:14:18.046384"
+  "fetched_at": "2026-08-05T14:19:03.961549"
 }

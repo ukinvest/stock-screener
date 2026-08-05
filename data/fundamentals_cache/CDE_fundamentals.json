@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CDE",
-    "fetch_date": "2026-07-15T13:12:12.265831",
+    "fetch_date": "2026-08-05T13:38:34.529924",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 360062000.0,
       "2025-06-30 00:00:00": 480650000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.851,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:12:12.267310"
+  "fetched_at": "2026-08-05T13:38:34.531321"
 }
