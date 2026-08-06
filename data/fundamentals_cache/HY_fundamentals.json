@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HY",
-    "fetch_date": "2026-05-30T20:49:26.282727",
+    "fetch_date": "2026-08-06T13:53:19.669812",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 910400000.0,
@@ -26,7 +26,6 @@
     "margin_change": 1.5,
     "operating_margin": -3.32,
     "quarterly_inventory": {
-      "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 772700000.0,
       "2025-06-30 00:00:00": 776600000.0,
@@ -38,5 +37,5 @@
     "inventory_to_sales_ratio": 0.81,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-30T20:49:26.284718"
+  "fetched_at": "2026-08-06T13:53:19.671575"
 }

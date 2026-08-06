@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PNTG",
-    "fetch_date": "2026-07-30T14:03:32.184119",
+    "fetch_date": "2026-08-06T14:10:14.900732",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 209842000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 6.06,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T14:03:32.185287"
+  "fetched_at": "2026-08-06T14:10:14.902103"
 }

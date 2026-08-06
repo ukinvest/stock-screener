@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CNI",
-    "fetch_date": "2026-07-29T13:41:52.521244",
+    "fetch_date": "2026-08-06T13:38:36.654324",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 4272000000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.181,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T13:41:52.523024"
+  "fetched_at": "2026-08-06T13:38:36.656079"
 }

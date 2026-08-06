@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DIN",
-    "fetch_date": "2026-07-29T13:45:20.835007",
+    "fetch_date": "2026-08-06T13:42:05.723861",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 214800000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 13.5,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T13:45:20.836322"
+  "fetched_at": "2026-08-06T13:42:05.725172"
 }

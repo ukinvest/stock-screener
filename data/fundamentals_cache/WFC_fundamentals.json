@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WFC",
-    "fetch_date": "2026-07-30T14:19:26.653549",
+    "fetch_date": "2026-08-06T14:26:08.306052",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 24.999999999999993,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T14:19:26.654215"
+  "fetched_at": "2026-08-06T14:26:08.306783"
 }

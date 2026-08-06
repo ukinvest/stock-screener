@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GBTG",
-    "fetch_date": "2026-07-29T13:52:08.817806",
+    "fetch_date": "2026-08-06T13:48:51.741996",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 621000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 5.6,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T13:52:08.819115"
+  "fetched_at": "2026-08-06T13:48:51.743324"
 }
