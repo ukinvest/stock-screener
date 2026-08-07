@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BCE",
-    "fetch_date": "2026-07-15T13:07:46.502754",
+    "fetch_date": "2026-08-07T12:39:34.335057",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 5930000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.053,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:07:46.504292"
+  "fetched_at": "2026-08-07T12:39:34.336805"
 }

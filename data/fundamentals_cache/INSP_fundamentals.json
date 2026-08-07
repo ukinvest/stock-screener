@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "INSP",
-    "fetch_date": "2026-07-30T13:47:57.151280",
+    "fetch_date": "2026-08-07T13:01:58.268048",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 201317000.0,
       "2025-06-30 00:00:00": 217086000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.813,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T13:47:57.152758"
+  "fetched_at": "2026-08-07T13:01:58.269768"
 }
