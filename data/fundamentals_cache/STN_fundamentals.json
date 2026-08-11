@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "STN",
-    "fetch_date": "2026-08-03T15:00:35.820156",
+    "fetch_date": "2026-08-11T13:27:06.984837",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1923600000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 8.27,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-03T15:00:35.821081"
+  "fetched_at": "2026-08-11T13:27:06.986758"
 }

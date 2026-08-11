@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GEHC",
-    "fetch_date": "2026-08-03T14:30:48.618894",
+    "fetch_date": "2026-08-11T12:57:12.395328",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.469,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-03T14:30:48.620194"
+  "fetched_at": "2026-08-11T12:57:12.397240"
 }
