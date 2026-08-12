@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DSGX",
-    "fetch_date": "2026-08-04T13:46:20.398486",
+    "fetch_date": "2026-08-12T12:53:36.713475",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 168739000.0,
       "2025-07-31 00:00:00": 179815000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.001,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T13:46:20.400301"
+  "fetched_at": "2026-08-12T12:53:36.715396"
 }
