@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AIRO",
-    "fetch_date": "2026-08-05T13:29:27.228233",
+    "fetch_date": "2026-08-13T12:39:12.962710",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 11795000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 2.529,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T13:29:27.229756"
+  "fetched_at": "2026-08-13T12:39:12.964535"
 }
