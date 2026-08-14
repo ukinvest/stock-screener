@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TMP",
-    "fetch_date": "2026-08-06T14:21:10.197499",
+    "fetch_date": "2026-08-14T13:28:19.179171",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 36.00000000000001,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:21:10.198191"
+  "fetched_at": "2026-08-14T13:28:19.179820"
 }

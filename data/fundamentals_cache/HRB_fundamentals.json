@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HRB",
-    "fetch_date": "2026-08-06T13:52:39.812072",
+    "fetch_date": "2026-08-14T12:59:47.538130",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 2277104000.0,
       "2025-06-30 00:00:00": 1111011000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 43.24,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T13:52:39.813497"
+  "fetched_at": "2026-08-14T12:59:47.539278"
 }

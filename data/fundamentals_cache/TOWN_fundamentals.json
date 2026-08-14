@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TOWN",
-    "fetch_date": "2026-08-06T14:21:31.084650",
+    "fetch_date": "2026-08-14T13:28:40.145927",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 183097000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": -22.413793103448267,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:21:31.085345"
+  "fetched_at": "2026-08-14T13:28:40.146556"
 }

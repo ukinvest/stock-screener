@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NTST",
-    "fetch_date": "2026-08-06T14:05:30.996866",
+    "fetch_date": "2026-08-14T13:12:39.431982",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 36.09,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:05:30.998215"
+  "fetched_at": "2026-08-14T13:12:39.433158"
 }

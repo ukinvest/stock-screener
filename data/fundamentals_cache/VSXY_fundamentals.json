@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VSXY",
-    "fetch_date": "2026-08-06T14:25:23.195430",
+    "fetch_date": "2026-08-14T13:32:33.091007",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": NaN,
       "2025-04-30 00:00:00": 1353000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.704,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:25:23.197288"
+  "fetched_at": "2026-08-14T13:32:33.092487"
 }

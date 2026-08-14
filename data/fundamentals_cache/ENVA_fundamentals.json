@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ENVA",
-    "fetch_date": "2026-08-06T13:44:43.612974",
+    "fetch_date": "2026-08-14T12:51:51.606841",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 15.0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T13:44:43.614276"
+  "fetched_at": "2026-08-14T12:51:51.607991"
 }
