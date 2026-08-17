@@ -7722,5 +7722,25 @@
   "TMUS": {
     "last_updated": "2026-08-14T13:28:21.019954",
     "in_earnings_season": true
+  },
+  "IMXI": {
+    "last_updated": "2026-08-17T12:43:40.759896",
+    "in_earnings_season": false
+  },
+  "METC": {
+    "last_updated": "2026-08-17T12:50:33.854931",
+    "in_earnings_season": false
+  },
+  "ONCH": {
+    "last_updated": "2026-08-17T12:56:29.786428",
+    "in_earnings_season": false
+  },
+  "SND": {
+    "last_updated": "2026-08-17T13:07:01.042016",
+    "in_earnings_season": false
+  },
+  "TLSI": {
+    "last_updated": "2026-08-17T13:10:27.897904",
+    "in_earnings_season": false
   }
 }
